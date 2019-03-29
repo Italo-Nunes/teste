@@ -1,0 +1,10 @@
+﻿Git clone= clonar o repositório
+git status= verifica o status do repositório
+git add . =trackeia os arquivos
+git commit -m "COMENTÁRIO DA VERSÃO"
+git config user.name "Seu Nome"
+git config user.config "nunesyto@hotmail.com"
+git push origin master= enviando pro git
+COLOCA USER NAME
+COLOCA SENHA
+git pull origin master = pegando dados do repositório e upando no pc.
